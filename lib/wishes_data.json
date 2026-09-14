@@ -1,0 +1,16 @@
+[
+  {
+    "id": "wish-1789400190399",
+    "sender_name": "test2",
+    "message": "this is also test msg",
+    "emoji": "💖",
+    "created_at": "21:21"
+  },
+  {
+    "id": "wish-1789400159341",
+    "sender_name": "Test name",
+    "message": "this is test wish",
+    "emoji": "💖",
+    "created_at": "21:20"
+  }
+]
